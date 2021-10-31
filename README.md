@@ -14,20 +14,20 @@
 # <h3 align="center">CONNECT WITH ME</h3>
 <p align="center">
   
-  <a href="https://www.facebook.com/luan.diep.92" alt="Facebook" target="_blank">
-    <img src="1.png" width="35" height="35"/>
+  <a href="https://www.facebook.com/luan.diep.92" alt="Facebook">
+    <img src="1.png" width="48" height="48"/>
   </a> 
   <a href="https://github.com/dieptanluangithub" alt="Github">
     <img src="4.png" width="50" height="50"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCOF0Yp4KmuiPGK_KjmJVogQ" alt="Youtube channel" target="_blank" >
+  <a href="https://www.youtube.com/channel/UCOF0Yp4KmuiPGK_KjmJVogQ" alt="Youtube channel">
     <img src="3.png" width="50" height="50"/>
   </a>
   <a href="mailto:tiennhm.it@gmail.com" alt="Email">
     <img src="5.png" width="50" height="50"/>
   </a>
   <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="2.png" width="50" height="50"/>
+    <img src="2.png" width="55" height="55"/>
   </a>
 </p>
 
