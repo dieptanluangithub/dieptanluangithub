@@ -7,6 +7,9 @@
 
 - 🌱 I’m currently learning **MERN Stack.**
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 📫 How to reach me:
 <p align="center">
@@ -59,3 +62,6 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
