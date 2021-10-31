@@ -13,20 +13,21 @@
 <!-- CONNECTION -->   
 # <h3 align="center">CONNECT WITH ME</h3>
 <p align="center">
-  <a href="https://www.facebook.com/luan.diep.92" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  
+  <a href="https://www.facebook.com/luan.diep.92" alt="Facebook" target="_blank">
+    <img src="1.png" width="35" height="35"/>
   </a> 
   <a href="https://github.com/dieptanluangithub" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src="4.png" width="50" height="50"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCOF0Yp4KmuiPGK_KjmJVogQ" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/55/000000/youtube-play.png"/>
+    <img src="3.png" width="50" height="50"/>
   </a>
   <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="48" height="48"/>
+    <img src="5.png" width="50" height="50"/>
   </a>
   <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" width="43" height="43"/>
+    <img src="2.png" width="50" height="50"/>
   </a>
 </p>
 
