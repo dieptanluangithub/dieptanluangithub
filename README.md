@@ -50,7 +50,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieptanluangithub&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=TOP%20NGÔN%20NGỮ%20THƯỜNG%20DÙNG" alt="dieptanluangithub" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieptanluangithub&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=TOP%20NG%C3%94N%20NG%E1%BB%AE%20TH%C6%AF%E1%BB%9CNG%20D%C3%99NG" alt="dieptanluangithub" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=dieptanluangithub&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=HOẠT%20ĐỘNG%20TRÊN%20GITHUB" alt="dieptanluangithub" width="100%"/>
     </td>
     <td>
